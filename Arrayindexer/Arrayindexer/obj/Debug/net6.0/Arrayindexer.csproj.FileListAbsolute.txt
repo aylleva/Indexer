@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Arrayindexer\Arrayindexer\Arrayindexer\bin\Debug\net6.0\Arrayindexer.exe
+C:\Users\user\Desktop\Arrayindexer\Arrayindexer\Arrayindexer\bin\Debug\net6.0\Arrayindexer.deps.json
+C:\Users\user\Desktop\Arrayindexer\Arrayindexer\Arrayindexer\bin\Debug\net6.0\Arrayindexer.runtimeconfig.json
+C:\Users\user\Desktop\Arrayindexer\Arrayindexer\Arrayindexer\bin\Debug\net6.0\Arrayindexer.dll
+C:\Users\user\Desktop\Arrayindexer\Arrayindexer\Arrayindexer\bin\Debug\net6.0\Arrayindexer.pdb
+C:\Users\user\Desktop\Arrayindexer\Arrayindexer\Arrayindexer\obj\Debug\net6.0\Arrayindexer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Arrayindexer\Arrayindexer\Arrayindexer\obj\Debug\net6.0\Arrayindexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Arrayindexer\Arrayindexer\Arrayindexer\obj\Debug\net6.0\Arrayindexer.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Arrayindexer\Arrayindexer\Arrayindexer\obj\Debug\net6.0\Arrayindexer.AssemblyInfo.cs
+C:\Users\user\Desktop\Arrayindexer\Arrayindexer\Arrayindexer\obj\Debug\net6.0\Arrayindexer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Arrayindexer\Arrayindexer\Arrayindexer\obj\Debug\net6.0\Arrayindexer.dll
+C:\Users\user\Desktop\Arrayindexer\Arrayindexer\Arrayindexer\obj\Debug\net6.0\refint\Arrayindexer.dll
+C:\Users\user\Desktop\Arrayindexer\Arrayindexer\Arrayindexer\obj\Debug\net6.0\Arrayindexer.pdb
+C:\Users\user\Desktop\Arrayindexer\Arrayindexer\Arrayindexer\obj\Debug\net6.0\Arrayindexer.genruntimeconfig.cache
+C:\Users\user\Desktop\Arrayindexer\Arrayindexer\Arrayindexer\obj\Debug\net6.0\ref\Arrayindexer.dll
